@@ -1,12 +1,5 @@
-# repository_demo
+# Image and random points.
 
+This is my small project after completing the [MIMPython](https://mimpython.github.io/pythonSummerCourse/) course. You can see its ouput below.
 
-This is a demo repository. In this repository, I have:
-1. file1.txt
-2. file2.txt
-3. file3.txt
-4. file4.txt
-5. README.md
-
-Then, I want to attach a giphy
-[meme gifs](https://media.giphy.com/media/VRKheDy4DkBMrQm66p/giphy.gif)
+![image_output](output/output_zoro.png).
